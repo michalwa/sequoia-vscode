@@ -629,7 +629,8 @@
     {
       "scope": [
         "support.class",
-        "variable.other.constant"
+        "variable.other.constant",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#5c87a4"
