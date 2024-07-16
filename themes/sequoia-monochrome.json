@@ -539,6 +539,14 @@
     },
     {
       "scope": [
+        "meta.tag.other.unrecognized entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#626983"
+      }
+    },
+    {
+      "scope": [
         "meta.import",
         "meta.export"
       ],
