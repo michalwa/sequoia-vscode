@@ -3,7 +3,12 @@
 # Sequoia for VS Code.
 Sequoia is composed of a dark background with neutral gray tones for the editor and terminal areas, with subtle highlights in blue for active tabs and buttons, offering a comfortable and modern coding environment.
 
-
+<p align="center">
+  <strong style="color: #eb6f92; font-size: 1.3em">
+      This is a personalized version of the original theme with opinionated
+      changes to the color selection for tokens and other minor tweaks.
+  </strong>
+</p>
 
 # Official website
 See other interfaces at the official website.
