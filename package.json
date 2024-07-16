@@ -3,7 +3,7 @@
   "displayName": "Sequoia",
   "description": "Black, elegant, modern, monochrome or colourful theme for VS Code and other interfaces.",
   "version": "1.31.0",
-  "publisher": "wicked-labs",
+  "publisher": "michalwa",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sequoia-Theme/vs-code"
@@ -36,17 +36,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sequoia Monochrome",
+        "label": "Sequoia Monochrome - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/sequoia-monochrome.json"
       },
       {
-        "label": "Sequoia Moonlight",
+        "label": "Sequoia Moonlight - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/sequoia-moonlight.json"
       },
       {
-        "label": "Sequoia Retro",
+        "label": "Sequoia Retro - Custom",
         "uiTheme": "vs-dark",
         "path": "./themes/sequoia-retro.json"
       }
