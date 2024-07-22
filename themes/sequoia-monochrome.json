@@ -627,22 +627,25 @@
       }
     },
     {
-			"scope": [
-				"string.quoted.double.html",
-				"string.quoted.single.html",
-				"meta.object-literal.key string"
-			],
-			"settings": {
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": ["source.json support.type.property-name"],
-			"settings": {
-				"foreground": "#868690",
-				"fontStyle": ""
-			}
-		},
+      "scope": [
+        "string.quoted.double.html",
+        "string.quoted.single.html",
+        "meta.object-literal.key string"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "source.json support.type.property-name",
+        "entity.name.tag.yaml"
+      ],
+      "settings": {
+        "foreground": "#868690",
+        "fontStyle": ""
+      }
+    },
     {
       "scope": [
         "support.class",

@@ -637,7 +637,10 @@
 			}
 		},
 		{
-			"scope": ["source.json support.type.property-name"],
+			"scope": [
+        "source.json support.type.property-name",
+        "entity.name.tag.yaml"
+      ],
 			"settings": {
 				"foreground": "#868690",
 				"fontStyle": ""
